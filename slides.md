@@ -16,9 +16,9 @@ info: |
   Learn more at [Sli.dev](https://sli.dev)
 ---
 
-# Welcome to Slidev
+# IT Media - DUT
 
-Presentation slides for developers
+Welcome to IT Media - DUT website
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 p-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -26,7 +26,7 @@ Presentation slides for developers
   </span>
 </div>
 
-<a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub"
+<a href="https://github.com/taquanghoang/it-media-dut-front-end" target="_blank" alt="GitHub"
   class="abs-br m-6 text-xl icon-btn opacity-50 !border-none !hover:text-white">
   <carbon-logo-github />
 </a>
@@ -37,17 +37,14 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 
-# What is Slidev?
+# Frontend
 
-Slidev is a slides maker and presenter designed for developers, consist of the following features
+Using
 
-- 📝 **Text-based** - focus on the content with Markdown, and then style them later
-- 🎨 **Themable** - theme can be shared and used with npm packages
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embedding Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export into PDF, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - anything possible on a webpage
+- 📝 **HTML**
+- 🎨 **SCSS**
+- 🧑 **JS**
+- 🤹 **REACT**
 
 <br>
 <br>
